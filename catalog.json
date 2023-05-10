@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 14 Pro",
+            "desc": "Apple iPhone 14th generation",
+            "price": 999,
+            "color": "#33505a",
+            "image": "https://raw.githubusercontent.com/SunilCz/FlutterCatalogImages/main/Iphone.png"
+        },
+        {
+            "id": 2,
+            "name": "Pixel 6 pro",
+            "desc": "Google Pixel phone 6th generation",
+            "price": 899,
+            "color": "#00ac51",
+            "image": "https://raw.githubusercontent.com/SunilCz/FlutterCatalogImages/main/pixelll.png"
+        },
+        {
+            "id": 3,
+            "name": "M2 Macbook Air",
+            "desc": "Apple Macbook air with apple silicon",
+            "price": 1199,
+            "color": "#e0bfae",
+            "image": "https://raw.githubusercontent.com/SunilCz/FlutterCatalogImages/main/M2R.png"
+        },
+        {
+            "id": 4,
+            "name": "Playstation 5",
+            "desc": "Sony Playstation 5th generation",
+            "price": 500,
+            "color": "#544ee4",
+            "image": "https://raw.githubusercontent.com/SunilCz/FlutterCatalogImages/main/ps5R.png"
+        },
+        {
+            "id": 5,
+            "name": "Airpods Pro",
+            "desc": "Apple Aipods Pro 1st generation",
+            "price": 200,
+            "color": "#e3e4e9",
+            "image": "https://raw.githubusercontent.com/SunilCz/FlutterCatalogImages/main/airpodR.png"
+        },
+        {
+            "id": 6,
+            "name": "iPad Pro",
+            "desc": "Apple iPad Pro 2023 edition",
+            "price": 799,
+            "color": "#f73984",
+            "image": "https://raw.githubusercontent.com/SunilCz/FlutterCatalogImages/main/ipadR.png"
+        },
+        {
+            "id": 7,
+            "name": "Galaxy S23 Ultra",
+            "desc": "Samsung Galaxy S23 Ultra 2023 edition",
+            "price": 1299,
+            "color": "#1c1c1c",
+            "image": "https://raw.githubusercontent.com/SunilCz/FlutterCatalogImages/main/s23R.png"
+        },
+        {
+            "id": 8,
+            "name": "Apple Watch 8",
+            "desc": "Apple Watch 8th generation",
+            "price": 699,
+            "color": "#7c95eb",
+            "image": "https://raw.githubusercontent.com/SunilCz/FlutterCatalogImages/main/applewatch.png"
+        }
+    ]
+}
